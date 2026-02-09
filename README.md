@@ -288,6 +288,11 @@ Run steps:
 2. Add/open the `FinalProject` directory.
 3. Launch the project.
 
+OR 
+1. [Open this google drive link](https://drive.google.com/file/d/1QfJBrYDAE_dOn5MwnkhDB_BSJa0u3Mch/view?usp=sharing)
+2. Download ZIP and unarchive it 
+3. Launch exe
+
 ## Build and Distribution Notes
 Project metadata:
 - `project.json`
